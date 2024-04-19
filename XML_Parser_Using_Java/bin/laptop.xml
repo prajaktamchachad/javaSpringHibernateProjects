@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><laptops>
+    <laptop name="My New Laptop">
+        <price value="10000"/>
+        <ram value="8GB"/>
+        <ssd value="250GB"/>
+    </laptop>
+    
+    <laptop name="HP">
+        <price value="10000"/>
+        <ram value="8GB"/>
+        <ssd value="250GB"/>
+    </laptop>
+</laptops>
